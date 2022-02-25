@@ -5,6 +5,7 @@
 body{
     background: url("im.jpeg");
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: 0px 0px;
 }
 div.main{
